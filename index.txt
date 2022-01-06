@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello Made changes 2
+=======
+Hello Demo
+>>>>>>> parent of b626d99 (commiting the changed file)
